@@ -1,3 +1,10 @@
+MAJOR CHANGES:
+- removed 'routeReducer' and 'routeActions' from Redux store
+- refactored all container components to using React hooks
+- added routing to App.js
+- added appropriate router links to /components/Navbar.js
+
+====================================================================================================
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
